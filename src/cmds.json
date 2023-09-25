@@ -1,0 +1,11 @@
+{
+    "cm1" : {
+        "Verb": "GET",
+        "Command": "hostname"
+    },
+    "cm2" : {
+        "Verb": "GET",
+        "Command": "/usr/bin/curl",
+        "Arguments": ["ifconfig.me"]
+    }
+}
